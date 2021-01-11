@@ -1,2 +1,2 @@
 This is my First Repository.
-Added new change by some other person.
+Changes made on Remote by some other person.
